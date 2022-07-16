@@ -20,4 +20,4 @@ Here are some ideas to get you started:
   <img src="chicaprogramando.gif" alt="" width="400"/>
 </div>
 <h2 align="center">Here you can find some of my habilities:</h2>
-<img alt="ViewCount" src="https://github.com/AnaRamos2022/AnaRamos2022/blob/8e0f987dc1abd232953eba588700565cc0c6ba09/Fondo%20LinkedIn.jpg" />
+<img alt="ViewCount" src="Fondo Linkedin.jpg" />
