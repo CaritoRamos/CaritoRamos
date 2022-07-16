@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center" width="50">
-  <img src="Gif.gif" alt="Welcome!" width="500"/>
+  <img src="Gif.gif" alt="Welcome!" width="1000"/>
 </div>
 <img alt="ViewCount" src="https://github.com/AnaRamos2022/AnaRamos2022/blob/8e0f987dc1abd232953eba588700565cc0c6ba09/Fondo%20LinkedIn.jpg" />
