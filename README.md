@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <div align="center" width="50">
   <img src="chicaprogramando.gif" alt="" width="400"/>
 </div>
-<h2 align="center">Here you can find some of my habilities:</h2>
+<h2 align="center">Here you can find some of my skills:</h2>
 <img alt="ViewCount" src="Fondo Linkedin.jpg" />
