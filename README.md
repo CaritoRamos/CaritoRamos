@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="left" width="50">
-  <img src="Gif Bienvenida.gif" alt="" width="500"/>
+<div align="center" width="50">
+  <img src="Gif Bienvenida.gif" alt="" width="1000"/>
 </div>
 <img alt="ViewCount" src="https://github.com/AnaRamos2022/AnaRamos2022/blob/8e0f987dc1abd232953eba588700565cc0c6ba09/Fondo%20LinkedIn.jpg" />
