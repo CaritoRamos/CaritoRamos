@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center" width="50">
-  <img src="Gif Welcome.gif" alt="" width="1000"/>
+  <img src="Gif welcome amarillo.gif" alt="" width="1000"/>
 </div>
 <div align="center" width="50">
   <img src="chicaprogramando.gif" alt="" width="400"/>
