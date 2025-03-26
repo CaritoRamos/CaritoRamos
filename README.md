@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 <h2 align="center">Here you can find some of my skills: </h2>
 <img alt="ViewCount" src="Skills.jpg" />
 
-## 🔭 I’m currently working on a data analytics project involving **web scraping, databases, ETL, and visualization with Power BI**.  
-
-## 🌱 I’m currently learning advanced data science techniques, including **machine learning and cloud computing (Azure)**.  
-
-## 👯 I’m looking to collaborate on data-driven projects related to **business intelligence, predictive analytics, and data visualization**.  
+### 🔭 I’m currently working on a data analytics project involving **web scraping, databases, ETL, and visualization with Power BI**.  
+### 🌱 I’m currently learning advanced data science techniques, including **machine learning and cloud computing (Azure)**.  
+### 👯 I’m looking to collaborate on data-driven projects related to **business intelligence, predictive analytics, and data visualization**.  
